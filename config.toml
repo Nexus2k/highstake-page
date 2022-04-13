@@ -1,4 +1,4 @@
-baseURL = 'https://highstake.nexus-informatik.ch/'
+baseURL = 'https://highstake.tech/'
 languageCode = 'en-us'
 title = '🍁 HIGH/STAKE 🥩 Nodes - powered by Nexus Informatik'
 theme = 'greyscale'
