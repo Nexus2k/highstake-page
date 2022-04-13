@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = '🍁 HIGH/STAKE 🥩 Nodes - powered by Nexus Informatik'
 theme = 'greyscale'
 disableKinds = ["taxonomy", "taxonomyTerm"]
+publishDir = "docs"
 
 [params]
     # Provide some metadata for search and indexing services
