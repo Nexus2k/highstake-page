@@ -1,0 +1,16 @@
+baseURL = 'https://highstake.nexus-informatik.ch/'
+languageCode = 'en-us'
+title = '🍁 HIGH/STAKE 🥩 Nodes - powered by Nexus Informatik'
+theme = 'hugogreyscale'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "A port of the Grayscale theme to Hugo"
+
+[Author]
+    name = "RunningStream"
+    email = "dco@runningstream.net"
+
+[blackfriday]
+  hrefTargetBlank = true
