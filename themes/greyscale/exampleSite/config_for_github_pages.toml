@@ -1,7 +1,8 @@
-baseURL = 'https://highstake.nexus-informatik.ch/'
-languageCode = 'en-us'
-title = '🍁 HIGH/STAKE 🥩 Nodes - powered by Nexus Informatik'
-theme = 'greyscale'
+baseURL = "https://runningstream.github.io/hugograyscale/"
+languageCode = "en-us"
+title = "Hugo Grayscale Theme"
+theme = "hugograyscale"
+#googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
@@ -12,5 +13,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "RunningStream"
     email = "dco@runningstream.net"
 
-[blackfriday]
-  hrefTargetBlank = true
+[Social]
+    twitter = "stream_running"
