@@ -7,11 +7,11 @@ publishDir = "docs"
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "Blockchain nodes and validators with focus on substrate based nodes."
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "Nexus Informatik Durrer"
+    email = "highstake@nexus-informatik.ch"
 
 [blackfriday]
   hrefTargetBlank = true
