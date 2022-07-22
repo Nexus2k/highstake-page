@@ -14,7 +14,7 @@ We currently run the following staking nodes:
 |    Kusama   | 🍁&#160;HIGH/STAKE&#160;🥩/HEL1 |      4.20%     |  [DbRgw96nMQcFEFZWTLd6LSPNdh8u3NBuUDfAhDmB6UU8cJC](https://kusama.subscan.io/waiting/DbRgw96nMQcFEFZWTLd6LSPNdh8u3NBuUDfAhDmB6UU8cJC) |
 |   Polkadot  | 🍁&#160;HIGH/STAKE&#160;🥩/ZRH1 |      0.69%     | [12bget8jJWnyjqYPiCwkXZjDh5tDBkta1WUcDYyndbXVDmQ1](https://polkadot.subscan.io/waiting/12bget8jJWnyjqYPiCwkXZjDh5tDBkta1WUcDYyndbXVDmQ1) |
 |    Kusama   | 🍁&#160;HIGH/STAKE&#160;🥩/ZRH1 |       10%      |  [HQuPha82sRy91zZn73XRGJVV3ernBh5HZKftUcoDT8CSUwK](https://kusama.subscan.io/waiting/HQuPha82sRy91zZn73XRGJVV3ernBh5HZKftUcoDT8CSUwK) |
-| Zeitgeist | 🍁&#160;HIGH/STAKE&#160;🥩 | 20% (network defined) | [dE3cBpGqy7C5cMDsdPEpQstHAHXRKGPPqMCqjFHXJGRHeCPDj](https://zeitgeist.subscan.io/account/dE3cBpGqy7C5cMDsdPEpQstHAHXRKGPPqMCqjFHXJGRHeCPDj)
+| Zeitgeist | 🍁&#160;HIGH/STAKE&#160;🥩 | 20% (network defined) | [dE1AAA5AxmbcvXLfLKwV8razVm5BxXVNpsgkgKLMB8jC4epbt](https://zeitgeist.subscan.io/account/dE1AAA5AxmbcvXLfLKwV8razVm5BxXVNpsgkgKLMB8jC4epbt)
 | &nbsp; | | |
 
 {{< big-button text="Contact us" href="#sec-ind-3" >}}
